@@ -6,6 +6,11 @@ This Portolio is a compilation of all the Data Science and Data Analysis project
 - Please feel free to connect with me or contact me!
   
 ## 👩‍💻 Projects
+
+### 🐶 [Pawfect Planner](https://github.com/YuwenAprilYang/Projects/blob/c5619f384f624964ac75ce59ae3f3f75398474a5/Pawfect%20Planner%20Project.ipynb)
+_Tools: Python, APIs, Geolocation Processing_  
+The Pawfect Planner is a personalized pet service and activity recommender that helps users find pet-friendly places and fetches weather information based on their location. 
+
 ### 🎮 [Wordle Game Simulator](https://github.com/YuwenAprilYang/wordle/blob/a0003b908f054c0fabb53a171882cfc820cc10f1/Wordle.ipynb)
 _Tools: Python_  
 Built a Wordle Game Simulator in Python, where users can guess the answer in 6 attempsts with hints on correct letter and correct position
