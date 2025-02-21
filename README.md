@@ -7,6 +7,10 @@ This Portolio is a compilation of all the Data Science and Data Analysis project
   
 ## 👩‍💻 Projects
 
+### 🎧 [Spotify Wrapped: Analyzing My Top Tracks Over Time](https://github.com/YuwenAprilYang/Projects/blob/main/Spotify%20Wrapped.ipynb)  
+_Tools: Python, API, Pandas, OAuth Authentication_  
+The Spotify Wrapped project utilizes the Spotipy API to extract my top songs across different time frames--last 4 weeks, last 6 months, and past years. The goal is to have access to my Spotify music history anytime, without waiting for the end of the year to get the official Spotify Wrapped. Also, this project aims to gain insights into how my music preferences evolve over time.
+
 ### 🐶 [Pawfect Planner](https://github.com/YuwenAprilYang/Projects/blob/c5619f384f624964ac75ce59ae3f3f75398474a5/Pawfect%20Planner%20Project.ipynb)
 _Tools: Python, APIs, Geolocation Processing_  
 The Pawfect Planner is a personalized pet service and activity recommender that helps users find pet-friendly places and fetches weather information based on their location. 
