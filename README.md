@@ -7,7 +7,7 @@ This Portolio is a compilation of all the Data Science and Data Analysis project
   
 ## 👩‍💻 Projects
 
-### 📞 [Telecom Churn Prediction: Identifying At-Risk Customers Using Machine Learning](https://github.com/YuwenAprilYang/Projects/tree/36f66910d27de903a86d785f560dc7c15287573e/Telecom%20Churn%20Prediction)  
+### 📞 [Telecom Churn Prediction: Identifying At-Risk Customers Using Machine Learning](https://github.com/YuwenAprilYang/Projects/blob/ce9b3ebbc41c7636c140a330e614d7b8ef2fe9ea/Telecom%20Churn%20Prediction/READMe.md)   
 _Tools: Python, Pandas, Matplotlib, SMOTE, Scikit-Learn, XGBoost_  
 This project applies machine learning techniques to predict customer churn in the telecom industry. By building and comparing Logistic Regression, Decision Tree, Random Forest and XGBoost models, this project provides actionable insights to telecom providers.  
 
