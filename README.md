@@ -7,17 +7,17 @@ This Portolio is a compilation of all the Data Science and Data Analysis project
   
 ## 👩‍💻 Projects
 
-### 📞 [Telecom Churn Prediction: Identifying At-Risk Customers Using Machine Learning](https://github.com/YuwenAprilYang/Projects/blob/ce9b3ebbc41c7636c140a330e614d7b8ef2fe9ea/Telecom%20Churn%20Prediction/READMe.md)   
+### 📞 [Telecom Churn Prediction: Identifying At-Risk Customers Using Machine Learning](https://github.com/YuwenAprilYang/Projects/tree/80407a45cfe3ffca2d6ea85b489b26c3ebeb0511/Telecom%20Churn%20Prediction)  
 _Tools: Python, Pandas, Matplotlib, SMOTE, Scikit-Learn, XGBoost_  
 This project applies machine learning techniques to predict customer churn in the telecom industry. By building and comparing Logistic Regression, Decision Tree, Random Forest and XGBoost models, this project provides actionable insights to telecom providers.  
 
+### 🐶 [Pawfect Planner: Your Personalized Pet Service & Activity Recommender](https://github.com/YuwenAprilYang/Projects/tree/80407a45cfe3ffca2d6ea85b489b26c3ebeb0511/Pawfect%20Planner)  
+_Tools: Python, APIs, BeautifulSoup_  
+This project helps pet owners make informed decisions by recommending breed-specific information, pet-friendly locations, weather-based recommendations, and upcoming pet events.  
+
 ### 🎧 [Spotify Wrapped: Analyzing My Top Tracks Over Time](https://github.com/YuwenAprilYang/Projects/blob/main/Spotify%20Wrapped.ipynb)  
 _Tools: Python, API, Pandas, OAuth Authentication_  
-The Spotify Wrapped project utilizes the Spotipy API to extract my top songs across different time frames--last 4 weeks, last 6 months, and past years. The goal is to have access to my Spotify music history anytime, without waiting for the end of the year to get the official Spotify Wrapped. Also, this project aims to gain insights into how my music preferences evolve over time.
-
-### 🐶 [Pawfect Planner](https://github.com/YuwenAprilYang/Projects/blob/c5619f384f624964ac75ce59ae3f3f75398474a5/Pawfect%20Planner%20Project.ipynb)
-_Tools: Python, APIs, Geolocation Processing_  
-The Pawfect Planner is a personalized pet service and activity recommender that helps users find pet-friendly places and fetches weather information based on their location.  
+The Spotify Wrapped project utilizes the Spotipy API to extract my top songs across different time frames--last 4 weeks, last 6 months, and past years. The goal is to have access to my Spotify music history anytime, without waiting for the end of the year to get the official Spotify Wrapped. Also, this project aims to gain insights into how my music preferences evolve over time.  
 
 ### 📈 Equity Research Analyst @ [Burkenroad Reports](https://tulane.app.box.com/s/xk7wqnptcknpzof7as1c4ysg3bri5qam)
 _Tools: Bloomberg, Excel_  
