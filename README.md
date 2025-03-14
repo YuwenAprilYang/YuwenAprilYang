@@ -30,6 +30,12 @@ Performed equity valuation and operated P/TBV ratio and 3 statement pro-forma mo
 - **Areas of Expertise:** Data Analysis, Marketing Analytics, Predictive Modeling
 
 ## 💼 Work Experience
+### Data Analyst @ [BroadVision Marketing](https://broadvisionmarketing.com/)  
+_As part of the MSBA, analyzing SEO optimization metrics for a digital marketing firm by optimizing website analysis workflow and conducting data-driven research to enhance the online promotion strategies for attorney firms_  
+- Built a web scraper using Python and Google Search API to extract SEO metrics (e.g. backlinks, page speed, domain authority)  from attorney firm websites, filtering out irrelevant websites, automating data collection and reducing manual work by 50%
+- Developed a machine learning classifier to predict SEO performance, integrating web scraping results with regression analysis; identifying three key factors driving 70% of client traffic
+- Created a data-driven business insights report with SEO recommendations, projected to reduce client reliance on paid advertising by 25%, enhancing organic search performance and cost efficiency  
+
 ### Data Analyst Intern @ [Kantar](https://www.kantar.com/en-cn)
 - Conducted market research reports using SQL for six brand clients across multiple industries, including Heineken, New Balance, Continental, Shangri-La, OSM and Abbott, generating strategy to improve brand awareness on specific mediums and audience groups
 - Created data visualization using Tableau with the data above; Produced six reports analyzing brand performance, campaign impact and benchmarking against competitor, providing strategic recommendations that boosted brand power scores by 15% on average
