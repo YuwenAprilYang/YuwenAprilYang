@@ -8,7 +8,7 @@ This Portolio is a compilation of all the Data Science and Data Analysis project
 ## 👩‍💻 Projects
 
 ### 🎵 [Spotify Analysis: Uncovering Listening Habits with Data Analytics](https://github.com/YuwenAprilYang/Projects/tree/4ab6f8f34762194b9ca74eab6f8c302d6164489c/Spotify%20Analysis)  
-_Tools: Python, Pandas, Matplotlib, Seaborn_  
+_Tools: Python, Pandas, Matplotlib, Seaborn, API_  
 This project dives into my Spotify's rich streaming data to uncover patterns in my streaming history, preferences, and listening behaviors. By performing data cleaning, exploratory analysis, and visualizations, it transforms raw data into actionable insights.  
 
 ### 📞 [Telecom Churn Prediction: Identifying At-Risk Customers Using Machine Learning](https://github.com/YuwenAprilYang/Projects/tree/80407a45cfe3ffca2d6ea85b489b26c3ebeb0511/Telecom%20Churn%20Prediction)  
