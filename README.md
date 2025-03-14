@@ -7,6 +7,10 @@ This Portolio is a compilation of all the Data Science and Data Analysis project
   
 ## 👩‍💻 Projects
 
+### 🎵 [Spotify Analysis: Uncovering Listening Habits with Data Analytics](https://github.com/YuwenAprilYang/Projects/tree/4ab6f8f34762194b9ca74eab6f8c302d6164489c/Spotify%20Analysis)  
+_Tools: Python, Pandas, Matplotlib, Seaborn_  
+This project dives into my Spotify's rich streaming data to uncover patterns in my streaming history, preferences, and listening behaviors. By performing data cleaning, exploratory analysis, and visualizations, it transforms raw data into actionable insights.  
+
 ### 📞 [Telecom Churn Prediction: Identifying At-Risk Customers Using Machine Learning](https://github.com/YuwenAprilYang/Projects/tree/80407a45cfe3ffca2d6ea85b489b26c3ebeb0511/Telecom%20Churn%20Prediction)  
 _Tools: Python, Pandas, Matplotlib, SMOTE, Scikit-Learn, XGBoost_  
 This project applies machine learning techniques to predict customer churn in the telecom industry. By building and comparing Logistic Regression, Decision Tree, Random Forest and XGBoost models, this project provides actionable insights to telecom providers.  
@@ -14,10 +18,6 @@ This project applies machine learning techniques to predict customer churn in th
 ### 🐶 [Pawfect Planner: Your Personalized Pet Service & Activity Recommender](https://github.com/YuwenAprilYang/Projects/tree/80407a45cfe3ffca2d6ea85b489b26c3ebeb0511/Pawfect%20Planner)  
 _Tools: Python, APIs, BeautifulSoup_  
 This project helps pet owners make informed decisions by recommending breed-specific information, pet-friendly locations, weather-based recommendations, and upcoming pet events.  
-
-### 🎧 [Spotify Wrapped: Analyzing My Top Tracks Over Time](https://github.com/YuwenAprilYang/Projects/blob/main/Spotify%20Wrapped.ipynb)  
-_Tools: Python, API, Pandas, OAuth Authentication_  
-The Spotify Wrapped project utilizes the Spotipy API to extract my top songs across different time frames--last 4 weeks, last 6 months, and past years. The goal is to have access to my Spotify music history anytime, without waiting for the end of the year to get the official Spotify Wrapped. Also, this project aims to gain insights into how my music preferences evolve over time.  
 
 ### 📈 Equity Research Analyst @ [Burkenroad Reports](https://tulane.app.box.com/s/xk7wqnptcknpzof7as1c4ysg3bri5qam)
 _Tools: Bloomberg, Excel_  
