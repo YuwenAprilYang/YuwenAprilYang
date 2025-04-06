@@ -16,7 +16,7 @@ This Portolio is a compilation of all the Data Science and Data Analysis project
 ### 📞 [Telecom Churn Prediction: Identifying At-Risk Customers Using Machine Learning](https://github.com/YuwenAprilYang/Projects/tree/80407a45cfe3ffca2d6ea85b489b26c3ebeb0511/Telecom%20Churn%20Prediction)  
 _Tools: Python, Pandas, Matplotlib, SMOTE, Scikit-Learn, XGBoost_  
 This project applies machine learning techniques to predict customer churn in the telecom industry. By building and comparing Logistic Regression, Decision Tree, Random Forest and XGBoost models, this project provides actionable insights to telecom providers.  
-### 📊 [EDA Generator: Interactive Exploratory Data Analysis Tool](https://github.com/YuwenAprilYang/Projects/blob/50f54dc9d3e6740f7a4d8688e521e90f3d93d57d/EDA%20Generator/app.py)  
+### 📊 [EDA Generator: Interactive Exploratory Data Analysis Tool](https://github.com/YuwenAprilYang/Projects/tree/50f54dc9d3e6740f7a4d8688e521e90f3d93d57d/EDA%20Generator) 
 _Tools: Python, Streamlit, Pandas, Matplotlib, Seaborn_  
 An end-to-end Streamlit web app that lets users upload any CSV and instantly explore their data. Features include data preview, dataset info, descriptive statistics, correlation heatmaps and interactive distribution plots.  
 
