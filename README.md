@@ -13,6 +13,11 @@ This Portolio is a compilation of all the Data Science and Data Analysis project
   
 ## 👩‍💻 Projects
 
+### 🌆 [AI City Scout: The Brain of a Smart City During Crisis](https://github.com/YuwenAprilYang/Projects/tree/4ea59eec9f87011ca7c8465bb800ab5438a9e61d/AI%20City%20Scout)  
+_Tools: Python, Streamlit, Scikit-Learn, Isolation Forest, Random Forest, OpenAI GPT-4, GeoPandas_  
+**🏆 Award: Winner of First Prize--Innovator's Summit Award at Aggie Hackathon 2025**
+This project builds an AI-powered dashboard to detect, predict, and respond to urban disasters using multimodal data. By integrating sensor anomalies, weather data, and social media streams, it enables real-time decision-making through predictive modeling, misinformation, and GPT-generated emergency response plans.  
+
 ### 📞 [Telecom Churn Prediction: Identifying At-Risk Customers Using Machine Learning](https://github.com/YuwenAprilYang/Projects/tree/80407a45cfe3ffca2d6ea85b489b26c3ebeb0511/Telecom%20Churn%20Prediction)  
 _Tools: Python, Pandas, Matplotlib, SMOTE, Scikit-Learn, XGBoost_  
 This project applies machine learning techniques to predict customer churn in the telecom industry. By building and comparing Logistic Regression, Decision Tree, Random Forest and XGBoost models, this project provides actionable insights to telecom providers.  
