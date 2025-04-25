@@ -14,7 +14,7 @@ This Portolio is a compilation of all the Data Science and Data Analysis project
 ## 👩‍💻 Projects
 
 ### 🌆 [AI City Scout: The Brain of a Smart City During Crisis](https://github.com/YuwenAprilYang/AI-City-Scout.git)  
-##### 🏆 Award: Winner of First Prize--Innovator's Summit Award at Aggie Hackathon 2025  
+### 🏆 Award: Winner of First Prize--Innovator's Summit Award at Aggie Hackathon 2025  
 _Tools: Python, Streamlit, Scikit-Learn, Isolation Forest, Random Forest, OpenAI GPT-4, GeoPandas_  
 This project builds an AI-powered dashboard to detect, predict, and respond to urban disasters using multimodal data. By integrating sensor anomalies, weather data, and social media streams, it enables real-time decision-making through predictive modeling, misinformation, and GPT-generated emergency response plans.  
 
