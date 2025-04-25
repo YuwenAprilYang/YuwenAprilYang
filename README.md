@@ -65,7 +65,7 @@ _As part of the MSBA, analyzing SEO optimization metrics for a digital marketing
 
 ## 🎓 Education
 #### Master of Science(M.S.) in Business Analytics (MSBA) @ [UC Davis](https://gsm.ucdavis.edu/master-science-business-analytics-msba)
-Core Modules: Machine Learning and Artificial Intelligence, Analytic Decision Making, Big Data, Advanced Statistics and Forecasting
+Core Modules: Analytic Decision Making, Big Data, Advanced Statistics and Forecasting, Machine Learning and Artificial Intelligence
 #### Bachelor of Science in Management @ [Tulane University](https://freeman.tulane.edu/)
 Major: Finance, Minor: Marketing  
 Core Modules: Business ANalytics, Research and Analytics, Financial Modeling, Equity Analysis
