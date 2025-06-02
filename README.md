@@ -12,12 +12,13 @@ This Portolio is a compilation of all the Data Science and Data Analysis project
 
   
 ## 👩‍💻 Projects
-
 ### 🌆 [AI City Scout: The Brain of a Smart City During Crisis](https://github.com/YuwenAprilYang/AI-City-Scout.git)  
 ### 🏆 Award: Winner of First Prize--Innovator's Summit Award at Aggie Hackathon 2025  
 _Tools: Python, Streamlit, Scikit-Learn, Isolation Forest, Random Forest, OpenAI GPT-4, GeoPandas_  
 This project builds an AI-powered dashboard to detect, predict, and respond to urban disasters using multimodal data. By integrating sensor anomalies, weather data, and social media streams, it enables real-time decision-making through predictive modeling, misinformation, and GPT-generated emergency response plans.  
-
+### 📈 [Finance AI Agent: Your Smart Assistant for 10-K Filings](https://github.com/YuwenAprilYang/FinAgent.git)  
+_Tools: Python, Python, Neo4j, LangChain, OpenAI GPT-4, Streamlit_  
+This project develops an AI-powered Q&A system that transforms unstructured 10-K filings into a structured financial knowledge graph. Using tools like Python, Streamlit, Neo4j, spaCy, and OpenAI GPT-4, it enables investors to query SEC filings in natural language and receive context-aware, grounded answers backed by graph-based retrieval and semantic search. The system automates entity extraction, connects related risks and strategies, and visualizes relationships—turning complex financial documents into accessible, actionable insights for faster, smarter decision-making.  
 ### 📞 [Telecom Churn Prediction: Identifying At-Risk Customers Using Machine Learning](https://github.com/YuwenAprilYang/Projects/tree/80407a45cfe3ffca2d6ea85b489b26c3ebeb0511/Telecom%20Churn%20Prediction)  
 _Tools: Python, Pandas, Matplotlib, SMOTE, Scikit-Learn, XGBoost_  
 This project applies machine learning techniques to predict customer churn in the telecom industry. By building and comparing Logistic Regression, Decision Tree, Random Forest and XGBoost models, this project provides actionable insights to telecom providers.  
