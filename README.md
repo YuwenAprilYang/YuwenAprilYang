@@ -69,4 +69,4 @@ _As part of the MSBA, analyzing SEO optimization metrics for a digital marketing
 Core Modules: Analytic Decision Making, Big Data, Advanced Statistics and Forecasting, Machine Learning and Artificial Intelligence
 #### Bachelor of Science in Management @ [Tulane University](https://freeman.tulane.edu/)
 Major: Finance, Minor: Marketing  
-Core Modules: Business ANalytics, Research and Analytics, Financial Modeling, Equity Analysis
+Core Modules: Business Analytics, Research and Analytics, Financial Modeling, Equity Analysis
