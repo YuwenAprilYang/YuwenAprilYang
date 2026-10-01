@@ -46,6 +46,14 @@ Performed equity valuation and operated P/TBV ratio and 3 statement pro-forma mo
 - **Areas of Expertise:** Data Analysis, Marketing Analytics, Predictive Modeling
 
 ## 💼 Work Experience
+
+### Data Analyst @ [Credit Genie](https://www.creditgenie.com/)
+- Owned full marketing analytics (acquisition & retention metric, including CAC, ARPU, ROAS, LTV:CAC) via SQL + Sigma/Tableau; delivered biweekly executive-ready reports to leadership
+- Built AI anomaly detection agent (NLP + Slack) for self-service marketing analytics
+- Ran $540K A/B test on predictive bidding → +19.5% revenue/user lift
+- Tested paywall logic on 400K+ users → 6% ARPU lift → full rollout
+- Built AskGenie funnel analytics (Snowflake + Amplitude)
+
 ### Data Analyst @ [BroadVision Marketing](https://broadvisionmarketing.com/)  
 _As part of the MSBA, analyzing SEO optimization metrics for a digital marketing firm by optimizing website analysis workflow and conducting data-driven research to enhance the online promotion strategies for attorney firms_  
 - Built a web scraper using Python and Google Search API to extract SEO metrics (e.g. backlinks, page speed, domain authority)  from attorney firm websites, filtering out irrelevant websites, automating data collection and reducing manual work by 50%
